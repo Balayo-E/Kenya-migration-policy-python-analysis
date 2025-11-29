@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Balayo
+    given-names: Eugine
+title: "Evaluating the Effectiveness and Implementation Gaps of Migration Policy Framework in Kenya: A Data-Driven Approach"
+version: "1.0"
+date-released: "2025-11-06"
+repository-code: "https://github.com/YOUR_USERNAME/migration-policy-kenya-python-analysis"
+license: MIT
+abstract: "This repository hosts code, data, and results for a mixed-methods study analyzing Kenya’s migration policy framework using real UNHCR and OpenBudget Kenya data."
+keywords:
+  - migration policy
+  - Kenya
+  - UNHCR
+  - OpenBudget
+  - data analysis

@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     Refugee_Population   R-squared:                       0.958
+Model:                            OLS   Adj. R-squared:                  0.937
+Method:                 Least Squares   F-statistic:                     9.819
+Date:                Thu, 06 Nov 2025   Prob (F-statistic):             0.0885
+Time:                        09:27:32   Log-Likelihood:                -45.831
+No. Observations:                   4   AIC:                             95.66
+Df Residuals:                       2   BIC:                             94.43
+Df Model:                           1                                         
+Covariance Type:                  HC3                                         
+========================================================================================
+                           coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                 3.377e+05   8.42e+04      4.011      0.000    1.73e+05    5.03e+05
+Policy_Funding_BnKES  7.034e+04   2.24e+04      3.134      0.002    2.63e+04    1.14e+05
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   3.164
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.389
+Skew:                           0.589   Prob(JB):                        0.823
+Kurtosis:                       2.027   Cond. No.                         15.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
